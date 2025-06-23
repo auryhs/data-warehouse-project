@@ -58,5 +58,5 @@ data-warehouse-project/
 
 ## 📚 Reference
 
-- 🎥 [SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project (YouTube)]([https://www.youtube.com/watch?v=YOUR_LINK](https://www.youtube.com/watch?v=9GVqKuTVANE&t=3345s))
-- 💻 [SQL Data Warehouse Project Repository (GitHub)]([https://github.com/YOUR_REPO](https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main))
+- 🎥 [SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project (YouTube)](https://www.youtube.com/watch?v=9GVqKuTVANE&t=3345s)
+- 💻 [SQL Data Warehouse Project Repository (GitHub)](https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main)
