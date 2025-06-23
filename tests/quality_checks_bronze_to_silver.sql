@@ -1,3 +1,8 @@
+/*
+performs data quality checks on raw data stored in the Bronze layer before it is cleaned and transformed into the Silver layer. 
+The script includes validations such as null checks, duplicates detection, and format consistency to ensure data integrity.
+*/
+
 -- ====================================================================
 -- Checking 'bronze.customers_raw'
 -- ====================================================================
