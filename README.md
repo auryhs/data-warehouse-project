@@ -1,6 +1,5 @@
-# Data Warehouse Project
+# Data Warehouse Project - Ecommerce Data
 
-Welcome to the **Data Warehouse Project** repository! 🚀  
 This project showcases the development of a modern data warehouse using the Medallion Architecture (Bronze → Silver → Gold). It covers data ingestion, transformation, and modeling — designed to create clean, reliable, and scalable datasets for downstream analytics and reporting (which are outside the scope of this project).
 
 This project is inspired by Data With Bara, and you can find his original YouTube tutorial and GitHub repository in the Reference section below.
